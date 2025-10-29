@@ -1,0 +1,422 @@
+item_en,item_es,category
+apple core,corazón de manzana,orgánico
+banana peel,cáscara de plátano,orgánico
+orange peel,cáscara de naranja,orgánico
+coffee grounds,restos de café,orgánico
+tea bag,bolsa de té,orgánico
+bread crust,corteza de pan,orgánico
+egg shell,cáscara de huevo,orgánico
+used napkin,servilleta usada,orgánico
+food leftovers,sobras de comida,orgánico
+vegetable peels,cáscaras de vegetales,orgánico
+chicken bones,huesos de pollo,orgánico
+fish bones,huesos de pescado,orgánico
+expired fruit,fruta caducada,orgánico
+moldy bread,pan con moho,orgánico
+lettuce leaves,hojas de lechuga,orgánico
+tomato stem,tallo de tomate,orgánico
+apple,manzana,orgánico
+pear,pera,orgánico
+rice leftovers,sobras de arroz,orgánico
+pasta leftovers,sobras de pasta,orgánico
+milk carton envase de leche,cartón
+pizza box,caja de pizza,cartón
+shoe box,caja de zapatos,cartón
+toilet paper roll,tubo de papel higiénico,cartón
+paper towel roll,tubo de toalla de papel,cartón
+cereal box,caja de cereal,cartón
+notebook cover,portada de cuaderno,cartón
+cardboard tube,tubo de cartón,cartón
+egg carton,caja de huevos,cartón
+cardboard packaging,empaque de cartón,cartón
+paper scraps,recortes de papel,inorgánico reciclable
+office paper,papel de oficina,inorgánico reciclable
+newspaper,periódico,inorgánico reciclable
+magazine,revista,inorgánico reciclable
+flyer,volante,inorgánico reciclable
+receipt,recibo,inorgánico reciclable
+envelope,sobre,inorgánico reciclable
+printer paper,papel de impresora,inorgánico reciclable
+photocopy,papelería copiada,inorgánico reciclable
+sticky note,nota adhesiva,inorgánico reciclable
+plastic bottle,botella de plástico,plástico
+plastic cup,vaso de plástico,plástico
+plastic fork,tenedor de plástico,plástico
+plastic spoon,cuchara de plástico,plástico
+plastic knife,cuchillo de plástico,plástico
+soda bottle,botella de refresco,plástico
+water bottle,botella de agua,plástico
+shampoo bottle,botella de champú,plástico
+detergent bottle,botella de detergente,plástico
+yogurt cup,vaso de yogur,plástico
+milk jug,botella de leche,plástico
+plastic bag,bolsa de plástico,plástico
+cling film,película plástica,plástico
+plastic wrapper,envoltura plástica,plástico
+plastic straw,pajilla,plástico
+plastic lid,tapa de plástico,plástico
+plastic container,contenedor de plástico,plástico
+juice bottle,botella de jugo,plástico
+toothpaste tube,tubo de pasta dental,plástico
+metal can,lata de metal,metal
+soda can,lata de refresco,metal
+beer can,lata de cerveza,metal
+tuna can,lata de atún,metal
+aluminum foil,papel aluminio,metal
+metal lid,tapa metálica,metal
+metal cap,tapón metálico,metal
+steel can,lata de acero,metal
+nail,clavo,metal
+screw,tornillo,metal
+glass bottle,botella de vidrio,vidrio
+glass jar,frasco de vidrio,vidrio
+wine bottle,botella de vino,vidrio
+beer bottle,botella de cerveza,vidrio
+jam jar,frasco de mermelada,vidrio
+broken glass,vidrio roto,vidrio
+window glass,cristal de ventana,vidrio
+perfume bottle,frasco de perfume,vidrio
+medicine bottle,frasco de medicina,vidrio
+test tube,tubo de ensayo,vidrio
+chip bag,bolsa de papas,inorgánico no reciclable
+candy wrapper,envoltorio de dulce,inorgánico no reciclable
+gum wrapper,envoltorio de chicle,inorgánico no reciclable
+snack bag,bolsa de botana,inorgánico no reciclable
+styrofoam cup,vaso de unicel,inorgánico no reciclable
+styrofoam plate,plato de unicel,inorgánico no reciclable
+styrofoam box,caja de unicel,inorgánico no reciclable
+ceramic mug,taza de cerámica,inorgánico no reciclable
+broken plate,plato roto,inorgánico no reciclable
+mirror,espejo,inorgánico no reciclable
+used tissue,pañuelo usado,orgánico
+apple seeds,semillas de manzana,orgánico
+tea leaves,hojas de té,orgánico
+used coffee filter,filtro de café usado,orgánico
+grape stems,tallos de uva,orgánico
+banana string,hebra de plátano,orgánico
+vegetable stem,tallo de vegetal,orgánico
+meat scraps,restos de carne,orgánico
+bread crumbs,migas de pan,orgánico
+cooked vegetables,verduras cocidas,orgánico
+burned toast,pan tostado quemado,orgánico
+apple slice,rodaja de manzana,orgánico
+grapefruit peel,cáscara de toronja,orgánico
+cucumber peel,cáscara de pepino,orgánico
+carrot peel,cáscara de zanahoria,orgánico
+onion peel,cáscara de cebolla,orgánico
+garlic skin,piel de ajo,orgánico
+tomato slice,rodaja de tomate,orgánico
+lemon peel,cáscara de limón,orgánico
+corn cob,olote de maíz,orgánico
+corn husk,hoja de maíz,orgánico
+pineapple top,corona de piña,orgánico
+avocado seed,semilla de aguacate,orgánico
+melon rind,corteza de melón,orgánico
+watermelon rind,corteza de sandía,orgánico
+toilet paper,papel higiénico usado,inorgánico no reciclable
+sanitary pad,toalla sanitaria,inorgánico no reciclable
+diaper,pañal,inorgánico no reciclable
+cotton swab,hisopo,inorgánico no reciclable
+makeup wipe,toallita desmaquillante,inorgánico no reciclable
+mask,mascarilla,inorgánico no reciclable
+bandage,venda,inorgánico no reciclable
+gauze,gasa,inorgánico no reciclable
+toothbrush,cepillo de dientes,inorgánico no reciclable
+toothpick,palillo,inorgánico no reciclable
+pen,pluma,inorgánico reciclable
+pencil,lápiz,inorgánico reciclable
+highlighter,marcador fluorescente,inorgánico reciclable
+eraser,goma de borrar,inorgánico no reciclable
+staple,grapa,metal
+stapler,engrapadora,metal
+paper clip,clip,metal
+binder clip,clip sujetapapeles,metal
+notebook,cuaderno,cartón
+textbook,libro,cartón
+calendar,calendario,cartón
+brochure,folleto,cartón
+flyer stand,soporte de folleto,metal
+folder,carpeta,cartón
+index card,tarjeta de índice,cartón
+poster,cartel,cartón
+drawing paper,papel de dibujo,inorgánico reciclable
+scratch paper,papel de borrador,inorgánico reciclable
+sticky note pad,bloc de notas adhesivas,inorgánico reciclable
+usb cable,cable usb,batería / electrónico / peligroso
+computer mouse,ratón de computadora,batería / electrónico / peligroso
+keyboard,teclado,batería / electrónico / peligroso
+earphones,auriculares,batería / electrónico / peligroso
+monitor,monitor,batería / electrónico / peligroso
+laptop,laptop,batería / electrónico / peligroso
+calculator,calculadora,batería / electrónico / peligroso
+remote control,control remoto,batería / electrónico / peligroso
+cell phone,teléfono celular,batería / electrónico / peligroso
+battery,pila,batería / electrónico / peligroso
+charger,cargador,batería / electrónico / peligroso
+tablet,tableta,batería / electrónico / peligroso
+headphones,audífonos,batería / electrónico / peligroso
+light bulb, foco,batería / electrónico / peligroso
+fluorescent tube,tubo fluorescente,batería / electrónico / peligroso
+printer,impresora,batería / electrónico / peligroso
+scanner,escáner,batería / electrónico / peligroso
+hard drive,disco duro,batería / electrónico / peligroso
+motherboard,placa base,batería / electrónico / peligroso
+power supply,fuente de poder,batería / electrónico / peligroso
+plastic ruler,regla de plástico,plástico
+plastic folder,carpeta de plástico,plástico
+plastic pen,pluma de plástico,plástico
+plastic divider,separador de plástico,plástico
+plastic box,caja de plástico,plástico
+plastic storage bin,caja organizadora,plástico
+water jug,garrafón de agua,plástico
+plastic utensil,cubierto de plástico,plástico
+plastic plate,plato de plástico,plástico
+plastic cup lid,tapa de vaso de plástico,plástico
+tin can,lata de hojalata,metal
+metal spoon,cuchara de metal,metal
+metal fork,tenedor de metal,metal
+metal knife,cuchillo de metal,metal
+metal tray,charola metálica,metal
+metal hanger,gancho de metal,metal
+metal wire,alambre,metal
+metal pipe,tubo de metal,metal
+metal sheet,hoja de metal,metal
+metal straw,popote metálico,metal
+glass cup,vaso de vidrio,vidrio
+glass plate,plato de vidrio,vidrio
+glass bowl,tazón de vidrio,vidrio
+laboratory flask,matraz de laboratorio,vidrio
+microscope slide,portaobjetos,vidrio
+test beaker,vaso de laboratorio,vidrio
+apple slice,rodaja de manzana,orgánico
+banana slice,rodaja de plátano,orgánico
+orange slice,rodaja de naranja,orgánico
+grapefruit slice,rodaja de toronja,orgánico
+cucumber slice,rodaja de pepino,orgánico
+carrot slice,rodaja de zanahoria,orgánico
+tomato slice,rodaja de tomate,orgánico
+lettuce leaf,hoja de lechuga,orgánico
+spinach leaf,hoja de espinaca,orgánico
+cabbage leaf,hoja de repollo,orgánico
+potato peel,cáscara de papa,orgánico
+onion peel,cáscara de cebolla,orgánico
+garlic peel,cáscara de ajo,orgánico
+pepper stem,tallo de pimiento,orgánico
+herb stems,tallos de hierbas,orgánico
+egg shell,cáscara de huevo,orgánico
+cheese rind,corteza de queso,orgánico
+bread crust,corteza de pan,orgánico
+cake leftovers,restos de pastel,orgánico
+pastry leftovers,restos de repostería,orgánico
+coffee grounds,posos de café,orgánico
+tea leaves,hojas de té,orgánico
+used tea bag,bolsa de té usada,orgánico
+used coffee filter,filtro de café usado,orgánico
+fruit seeds,semillas de fruta,orgánico
+vegetable seeds,semillas de vegetal,orgánico
+garden leaves,hojas de jardín,orgánico
+grass clippings,recortes de césped,orgánico
+flower petals,pétalos de flor,orgánico
+compostable plate,plato compostable,orgánico
+paper towel,servilleta de papel,inorgánico no reciclable
+napkin,servilleta,inorgánico no reciclable
+tissue,pañuelo de papel,inorgánico no reciclable
+plastic cutlery,cubiertos de plástico,plástico
+plastic wrapper,envoltura de plástico,plástico
+plastic bag,bolsa de plástico,plástico
+plastic container,recipiente de plástico,plástico
+plastic bottle,botella de plástico,plástico
+plastic cup,vaso de plástico,plástico
+plastic lid,tapa de plástico,plástico
+plastic tray,bandeja de plástico,plástico
+plastic straw,pajilla de plástico,plástico
+plastic packaging,empaque de plástico,plástico
+aluminum can,lata de aluminio,metal
+steel can,lata de acero,metal
+metal lid,tapa metálica,metal
+metal cap,tapón metálico,metal
+metal spoon,cuchara metálica,metal
+metal fork,tenedor metálico,metal
+metal knife,cuchillo metálico,metal
+metal hanger,gancho de metal,metal
+metal wire,alambre de metal,metal
+tin foil,papel aluminio,metal
+glass bottle,botella de vidrio,vidrio
+glass jar,frasco de vidrio,vidrio
+wine bottle,botella de vino,vidrio
+beer bottle,botella de cerveza,vidrio
+jam jar,frasco de mermelada,vidrio
+medicine bottle,frasco de medicina,vidrio
+perfume bottle,frasco de perfume,vidrio
+broken glass,vidrio roto,inorgánico no reciclable
+ceramic mug,taza de cerámica,inorgánico no reciclable
+ceramic plate,plato de cerámica,inorgánico no reciclable
+mirror,espejo,inorgánico no reciclable
+styrofoam cup,vaso de poliestireno,inorgánico no reciclable
+styrofoam plate,plato de poliestireno,inorgánico no reciclable
+styrofoam box,caja de poliestireno,inorgánico no reciclable
+toilet paper roll,tubo de papel higiénico,inorgánico no reciclable
+used tissue,pañuelo usado,inorgánico no reciclable
+sanitary pad,toalla sanitaria,inorgánico no reciclable
+diaper,pañal,inorgánico no reciclable
+bandage,venda,inorgánico no reciclable
+cotton swab,hisopo,inorgánico no reciclable
+mask (used),mascarilla usada,inorgánico no reciclable
+pen,pluma,inorgánico no reciclable
+pencil,lápiz,inorgánico reciclable
+eraser,borrador,inorgánico no reciclable
+highlighter,marcador fluorescente,inorgánico reciclable
+marker,marcador,inorgánico reciclable
+sticky note,nota adhesiva,cartón
+folder,folder,cartón
+notebook,cuaderno,cartón
+textbook,libro de texto,cartón
+binder,carpeta,cartón
+office paper,papel de oficina,cartón
+brochure,folleto,cartón
+flyer,volante,cartón
+calendar,calendario,cartón
+index card,tarjeta índice,cartón
+paperboard packaging,empaque de cartón,cartón
+USB drive,memoria USB,batería / electrónico / peligroso
+computer mouse,ratón de computadora,batería / electrónico / peligroso
+keyboard,teclado,batería / electrónico / peligroso
+headphones,audífonos,batería / electrónico / peligroso
+monitor,monitor,batería / electrónico / peligroso
+laptop,computadora portátil,batería / electrónico / peligroso
+tablet,tableta,batería / electrónico / peligroso
+printer,impresora,batería / electrónico / peligroso
+scanner,escáner,batería / electrónico / peligroso
+camera,batería / cámara,batería / electrónico / peligroso
+power bank,batería portátil,batería / electrónico / peligroso
+charger,cargador,batería / electrónico / peligroso
+mobile phone,teléfono móvil,batería / electrónico / peligroso
+light bulb,foco,batería / electrónico / peligroso
+fluorescent tube,tubo fluorescente,batería / electrónico / peligroso
+batteries,pilas,batería / electrónico / peligroso
+printer cartridge,cartucho de impresora,batería / electrónico / peligroso
+headset,audífonos con micrófono,batería / electrónico / peligroso
+earbuds,auriculares inalámbricos,batería / electrónico / peligroso
+remote control,control remoto,batería / electrónico / peligroso
+plastic ruler,regla de plástico,plástico
+plastic folder,carpeta de plástico,plástico
+plastic pen,pluma de plástico,plástico
+plastic divider,separador de plástico,plástico
+plastic box,caja de plástico,plástico
+plastic storage bin,caja organizadora de plástico,plástico
+plastic cup,taza de plástico,plástico
+plastic plate,plato de plástico,plástico
+plastic lid,tapa de plástico,plástico
+plastic straw,pajilla de plástico,plástico
+plastic packaging,empaque de plástico,plástico
+aluminum can,lata de aluminio,metal
+steel can,lata de acero,metal
+metal lid,tapa metálica,metal
+metal cap,tapón metálico,metal
+metal spoon,cuchara metálica,metal
+metal fork,tenedor metálico,metal
+metal knife,cuchillo metálico,metal
+metal hanger,gancho de metal,metal
+metal wire,alambre metálico,metal
+metal pipe,tubo metálico,metal
+metal sheet,hoja de metal,metal
+glass bottle,botella de vidrio,vidrio
+glass jar,frasco de vidrio,vidrio
+wine bottle,botella de vino,vidrio
+beer bottle,botella de cerveza,vidrio
+jam jar,frasco de mermelada,vidrio
+medicine bottle,frasco de medicina,vidrio
+perfume bottle,frasco de perfume,vidrio
+broken glass,vidrio roto,inorgánico no reciclable
+ceramic mug,taza de cerámica,inorgánico no reciclable
+ceramic plate,plato de cerámica,inorgánico no reciclable
+mirror,espejo,inorgánico no reciclable
+styrofoam cup,vaso de poliestireno,inorgánico no reciclable
+styrofoam plate,plato de poliestireno,inorgánico no reciclable
+styrofoam box,caja de poliestireno,inorgánico no reciclable
+toothbrush,cepillo de dientes,inorgánico no reciclable
+toothpaste tube,tubo de pasta dental,inorgánico no reciclable
+cotton swab,hisopo,inorgánico no reciclable
+used tissue,pañuelo usado,inorgánico no reciclable
+sanitary pad,toalla sanitaria,inorgánico no reciclable
+diaper,pañal,inorgánico no reciclable
+mask (used),mascarilla usada,inorgánico no reciclable
+bandage,venda,inorgánico no reciclable
+plastic cutlery,cubiertos de plástico,plástico
+plastic wrapper,envoltura de plástico,plástico
+plastic bag,bolsa de plástico,plástico
+plastic container,recipiente de plástico,plástico
+plastic bottle,botella de plástico,plástico
+plastic cup,vaso de plástico,plástico
+plastic lid,tapa de plástico,plástico
+plastic tray,bandeja de plástico,plástico
+plastic straw,pajilla de plástico,plástico
+plastic packaging,empaque de plástico,plástico
+aluminum can,lata de aluminio,metal
+steel can,lata de acero,metal
+metal lid,tapa metálica,metal
+metal cap,tapón metálico,metal
+metal spoon,cuchara metálica,metal
+metal fork,tenedor metálico,metal
+metal knife,cuchillo metálico,metal
+metal hanger,gancho de metal,metal
+metal wire,alambre metálico,metal
+metal pipe,tubo metálico,metal
+metal sheet,hoja de metal,metal
+glass bottle,botella de vidrio,vidrio
+glass jar,frasco de vidrio,vidrio
+wine bottle,botella de vino,vidrio
+beer bottle,botella de cerveza,vidrio
+jam jar,frasco de mermelada,vidrio
+medicine bottle,frasco de medicina,vidrio
+perfume bottle,frasco de perfume,vidrio
+broken glass,vidrio roto,inorgánico no reciclable
+ceramic mug,taza de cerámica,inorgánico no reciclable
+ceramic plate,plato de cerámica,inorgánico no reciclable
+mirror,espejo,inorgánico no reciclable
+styrofoam cup,vaso de poliestireno,inorgánico no reciclable
+styrofoam plate,plato de poliestireno,inorgánico no reciclable
+styrofoam box,caja de poliestireno,inorgánico no reciclable
+used tissue,pañuelo usado,inorgánico no reciclable
+sanitary pad,toalla sanitaria,inorgánico no reciclable
+diaper,pañal,inorgánico no reciclable
+bandage,venda,inorgánico no reciclable
+mask (used),mascarilla usada,inorgánico no reciclable
+plastic ruler,regla de plástico,plástico
+plastic folder,carpeta de plástico,plástico
+plastic pen,pluma de plástico,plástico
+plastic divider,separador de plástico,plástico
+plastic box,caja de plástico,plástico
+plastic storage bin,caja organizadora de plástico,plástico
+water jug,garrafón de agua,plástico
+plastic utensil,cubierto de plástico,plástico
+plastic plate,plato de plástico,plástico
+plastic cup lid,tapa de vaso de plástico,plástico
+aluminum foil,papel aluminio,metal
+tin can,lata de hojalata,metal
+metal straw,pajilla metálica,metal
+metal chain,cadena metálica,metal
+key,llave,metal
+coin,moneda,metal
+battery (AA),pila (AA),batería / electrónico / peligroso
+battery (AAA),pila (AAA),batería / electrónico / peligroso
+button battery,pila de botón,batería / electrónico / peligroso
+mobile phone,teléfono móvil,batería / electrónico / peligroso
+tablet,tableta,batería / electrónico / peligroso
+laptop,laptop,batería / electrónico / peligroso
+charger,cargador,batería / electrónico / peligroso
+earphones,auriculares,batería / electrónico / peligroso
+keyboard,teclado,batería / electrónico / peligroso
+mouse,ratón,batería / electrónico / peligroso
+monitor,monitor,batería / electrónico / peligroso
+light bulb,foco,batería / electrónico / peligroso
+fluorescent tube,tubo fluorescente,batería / electrónico / peligroso
+power bank,batería portátil,batería / electrónico / peligroso
+printer cartridge,cartucho de impresora,batería / electrónico / peligroso
+camera battery,batería de cámara,batería / electrónico / peligroso
+remote control battery,batería de control remoto,batería / electrónico / peligroso
+USB cable,cable USB,batería / electrónico / peligroso
+computer component,componente de computadora,batería / electrónico / peligroso
+electronics board,placa electrónica,batería / electrónico / peligroso
+projector lamp,lámpara de proyector,batería / electrónico / peligroso
+CD case,estuche de CD,plástico
