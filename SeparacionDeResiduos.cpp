@@ -108,6 +108,7 @@ class Hazardous : public Waste{
 
 int main(){
   vector<TrashItem> dataset = LoadDataSet("C:\\Users\\ianur\\OneDrive\\Escritorio\\VSCodeMain\\SchoolMain\\SeparacionDeBasura\\SistemaDeReciclaje\\waste_items_dataset.csv");
+  //Cambiar la linea de arriba por solo "waste_items_dataset.csv" dentro del parentesis. Tuve que poner la localizacion exacta del documento en mi laptop por algunos problemas, pero en cualquier otro lado deberia abrirse sin problema con solo el nombre del .csv
   
     cout<<" === Welcome to Trash Sorting Assistant ===\n";
     cout<<"Enter the name of the item you want to throw away: ";
